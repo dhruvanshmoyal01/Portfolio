@@ -4,12 +4,17 @@
 
   a {
     /* set the text color to blue here */
-    text-decoration: none; /* This means we do not want hyperlinks to be underlined */
+    color: blue;
+    /* This means we do not want hyperlinks to be underlined */
+    text-decoration: none;
   }
 
   a:hover {
     /* set the text color to red here */
-    text-decoration: none; /* This means we do not want hyperlinks to be underlined */
+    color: red;
+    /* This means we do not want hyperlinks to be underlined */
+    text-decoration: none; 
+    
   }
 
   body {
